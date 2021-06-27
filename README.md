@@ -80,14 +80,12 @@ Follow the following steps in the given order to run the application :
 	* Run http://localhost:3000/ in your desired browser to start the online voting system.
 
 Predefined Credentials:
-
 1. Admin Page:
 	* Username : admin
 	* Password : pass
 2. Polling Agent:
 	* Username : agent
 	* Password : pass
-
 These credentials can be changed by accessing the 'admin' & 'agent' table respectively in the database dbms.
 
 ---------------------------------------------
