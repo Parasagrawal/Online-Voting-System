@@ -3,10 +3,8 @@
 ---------------------------------------------
 |Name|
 |----|
-|Prince Kumar|
-|Janit Lodha|
-|Souvik Patra|
-|Animesh Choudhury|
+|Paras Agrawal|
+|Mridul Mittal|
 ---------------------------------------------
 ### FEATURES:
 
