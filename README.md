@@ -3,7 +3,9 @@
 ---------------------------------------------
 |Name|
 |----|
+|Amit JAIN|
 |Paras Agrawal|
+|Piyush Gurjar|
 |Mridul Mittal|
 ---------------------------------------------
 ### FEATURES:
